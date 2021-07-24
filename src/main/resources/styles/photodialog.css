@@ -1,0 +1,11 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.mainFxmlClass {
+
+}
+
+.imgViewBack {
+   -fx-background-color: #ccc;
+}
